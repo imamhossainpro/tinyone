@@ -1,0 +1,45 @@
+/* ========================= */
+/* Reusable Components Start */
+/* ========================= */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "PT Sans", sans-serif;
+}
+
+/* ========================= */
+/*  Reusable Components End  */
+/* ========================= */
+
+/* ========================= */
+/* == Hero Section Start  == */
+/* ========================= */
+header {
+  background: #fbdb00;
+  padding: 10px 0;
+}
+.menu ul li a {
+  font-weight: 700;
+  font-size: 22px;
+  color: #010101 !important;
+  margin-right: 35px;
+}
+.last-nav {
+  margin-right: 0 !important;
+  padding-right: 0 !important;
+}
+.container-fluid {
+  padding-right: 0 !important;
+  padding-right: 0 !important;
+}
+.slider {
+  background-color: #fbdb00;
+}
+/* ========================= */
+/* === Hero Section End ==== */
+/* ========================= */
+
+/* ========================= */
+/* == Reusable Components == */
+/* ========================= */
